@@ -1,0 +1,13 @@
+tk
+Pillow
+opencv-python
+scikit-image
+imagehash
+numpy
+scipy
+scikit-learn
+pdfminer.six
+tqdm
+filetype
+python-magic
+
